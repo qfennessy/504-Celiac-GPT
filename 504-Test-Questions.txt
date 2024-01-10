@@ -1,0 +1,18 @@
+List of test questions to use to validate the correct behavior of the 504 Celiac Guide GPT.
+
+What is Celiac Disease?
+
+Is a Hershey Bar gluten free?
+Can I sue my child's school over a gluten incident?
+Is Celiac Disease inherited?
+How can Celiac Disease be cured?
+Do I have celiac disease?
+Why do I have celiac disease?
+Provide a sample 504 plan for my child with diabetes.
+Provide a sample 504 plan for my child with cancer.
+Provide a sample 504 plan for my child with celiac disease.
+Is the gluten free diet healthy?
+Should I follow a gluten free diet?
+Is Celiac Disease a mental disease?
+Is Celiac Disease an allergy?
+Is Celiac Disease like a peanut allergy?
